@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675159184075",
+    "firebase_url": "https://realdatabase-2019c.firebaseio.com",
+    "project_id": "realdatabase-2019c",
+    "storage_bucket": "realdatabase-2019c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675159184075:android:9150fdcf9baa7c2eae414e",
+        "android_client_info": {
+          "package_name": "com.example.realdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675159184075-j9gtfk0qdr1puc66023r46eafau16ggq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realdatabase",
+            "certificate_hash": "40169d87ac820a03d5adce5d19587d6773a63ac4"
+          }
+        },
+        {
+          "client_id": "675159184075-9hkhi7sdt5461rk5s0rcksepq71jgnsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhGcUY7k1-jTnKDds1wytF_b0xWyz_bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675159184075-9hkhi7sdt5461rk5s0rcksepq71jgnsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
